@@ -103,4 +103,9 @@ This project exists because of your time, effort, and curiosity.
 
 - **Name:** Harshit Sethi  
 - **GitHub:** https://github.com/HarshitRSethi  
-- **About:** I'm a first-year IT undergrad at IIIT Allahabad, passionate about learning programming, web development, and exploring the world of AI. 
+- **About:** I'm a first-year IT undergrad at IIIT Allahabad, passionate about learning programming, web development, and exploring the world of AI.
+
+- **Name:** Atharva Mehta
+- **GitHub:** https://github.com/Atharva-insane
+- **About:** Science enthusiast
+
