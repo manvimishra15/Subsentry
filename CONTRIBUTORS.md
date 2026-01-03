@@ -183,6 +183,10 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/Anshdeep-Singh-9  
 - **About:** I recently watched Vinland Saga!
 
+- **Name:** Devanshu Chotiya
+- **GitHub:** https://github.com/devanshuwebd
+- **About:** Full-Stack Developer
+
 - **Name:** Himansh Arora
 - **GitHub:** https://github.com/Humanshere 
 - **About:** IT-BI Second year at IIITA
